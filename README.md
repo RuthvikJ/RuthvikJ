@@ -51,12 +51,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 ![Ruthvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuthvikJ&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RuthvikJ&theme=tokyonight)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RuthvikJ&theme=tokyo-night)
 ---
 
 
