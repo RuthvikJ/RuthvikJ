@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruthvik</h1>
-<h3 align="center">ML Systems Engineer | Building reliable data pipelines & ML-assisted applications</h3>
+<h3 align="center">Software Engineer | Building reliable data pipelines & ML-assisted applications</h3>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=ML+Systems+Engineer;Data+Pipeline+Builder;AI+Systems+Developer&center=true&width=500&height=50">
 </p>
