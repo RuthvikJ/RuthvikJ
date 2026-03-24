@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ruthvik</h1>
 <h3 align="center">Building reliable backend systems & ML-assisted applications</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;AI+Systems+Builder;Problem+Solver&center=true&width=500&height=50">
+</p>
 
 ---
 
@@ -47,6 +50,15 @@
 - Real-time location alerts via SMS  
 
 ---
+
+## 📊 GitHub Stats
+
+![Ruthvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuthvikJ&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RuthvikJ&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RuthvikJ&theme=tokyo-night)
+---
+
 
 ## 💼 Experience
 **Python & Data Analytics Intern — Dyashin Technosoft (2025)**  
