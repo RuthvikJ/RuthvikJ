@@ -21,11 +21,22 @@
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python, C  
-**Libraries:** Pandas, NumPy, Scikit-learn  
-**Backend:** REST APIs, WebSockets  
-**Data:** SQL, Apache Kafka  
-**Tools:** Git, Jupyter, VS Code, PyCharm  
+
+**Languages:**
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,c" />
+</p>
+
+**Core Libraries:**
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+**Tools:**
+<p>
+<img src="https://skillicons.dev/icons?i=git,vscode" />
+</p>
 
 ---
 
@@ -75,3 +86,6 @@
 ---
 
 ⭐️ Focused on building systems that are reliable, testable, and production-ready
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=RuthvikJ&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
