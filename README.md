@@ -62,12 +62,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-![Ruthvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuthvikJ&show_icons=true&theme=tokyonight)
----
-
-
 ## 💼 Experience
 **Python & Data Analytics Intern — Dyashin Technosoft (2025)**  
 - Data preprocessing, cleaning, validation using Pandas  
